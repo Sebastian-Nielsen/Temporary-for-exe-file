@@ -1,0 +1,5 @@
+2018-04-23 23:48:59,769 -----> New log started <-----
+2018-04-23 23:49:01,285 >>Github html received
+2018-04-23 23:49:01,290 Options(imgURL='https://farm5.staticflickr.com/4443/36824719563_e03102a892_o.jpg', updateMSG='None', showAd=0, adDuration=5000, basisKode='f8UG3Hy82S', encryptionOffset=9, charset_1='aA0!bBcC"1dDeE2f#FgG3%hHi&I4/jJ(kK)5l=Lm?M6@nNoO7pPqQ8rRsS9tTuUvVwWxXyYzZ', charset_2='1aAbBc2CdDeE3fFgG4hHjJ5kKlLm6iIwWMnNo7OpPq8QrRsS9tTuUvVxXyYzZ', numberOfTries='4 501', usedCodes='none')
+2018-04-23 23:49:01,290 adDuration: 5000
+2018-04-23 23:49:01,290 showAd = False; skipping sponsorWindow
